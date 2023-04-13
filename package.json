@@ -1,0 +1,18 @@
+{
+	"name": "isomorphic-perceptual-hashing",
+	"version": "0.1.0",
+	"description": "Generate content-based image hashes on Node.js",
+	"license": "MIT",
+	"repository": "ray-1337/isomorphic-perceptual-hashing",
+	"author": {
+		"name": "Hizkia Ray",
+		"email": "personal@13373333.one",
+		"url": "https://13373333.one"
+	},
+	"engines": {
+		"node": ">=14"
+	},
+	"keywords": [
+    "hash", "hashing", "perceptual"
+  ]
+}
