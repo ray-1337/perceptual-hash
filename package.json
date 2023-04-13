@@ -3,6 +3,14 @@
 	"version": "0.1.0",
 	"description": "Generate content-based image hashes on Node.js",
 	"license": "MIT",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "require": "./index.js"
+    }
+  },
 	"repository": "ray-1337/isomorphic-perceptual-hashing",
   "ava": {
     "extensions": [
