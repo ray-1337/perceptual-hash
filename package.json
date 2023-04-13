@@ -1,7 +1,7 @@
 {
-	"name": "isomorphic-perceptual-hashing",
+	"name": "perceptual-hash",
 	"version": "0.1.0",
-	"description": "Generate content-based image hashes on Node.js",
+	"description": "Generate content-based image hashes on Node.js.",
 	"license": "MIT",
   "main": "./index.js",
   "types": "./index.d.ts",
@@ -11,7 +11,7 @@
       "require": "./index.js"
     }
   },
-	"repository": "ray-1337/isomorphic-perceptual-hashing",
+	"repository": "ray-1337/perceptual-hash",
   "ava": {
     "extensions": [
       "ts"
