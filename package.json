@@ -23,6 +23,9 @@
 	"engines": {
 		"node": ">=14"
 	},
+  "scripts": {
+    "test": "ava test.ts"
+  },
 	"keywords": [
 		"hash",
 		"hashing",
