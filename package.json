@@ -13,6 +13,17 @@
 		"node": ">=14"
 	},
 	"keywords": [
-    "hash", "hashing", "perceptual"
-  ]
+		"hash",
+		"hashing",
+		"perceptual"
+	],
+	"dependencies": {
+		"@canvas/image": "^1.0.1",
+		"blockhash-core": "^0.1.0"
+	},
+	"devDependencies": {
+		"ava": "^5.2.0",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.0.4"
+	}
 }
