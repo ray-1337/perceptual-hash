@@ -4,6 +4,17 @@
 	"description": "Generate content-based image hashes on Node.js",
 	"license": "MIT",
 	"repository": "ray-1337/isomorphic-perceptual-hashing",
+  "ava": {
+    "extensions": [
+      "ts"
+    ],
+    "environmentVariables": {
+      "TS_NODE_LOG_ERROR": "true"
+    },
+    "require": [
+      "ts-node/register"
+    ]
+  },
 	"author": {
 		"name": "Hizkia Ray",
 		"email": "personal@13373333.one",
